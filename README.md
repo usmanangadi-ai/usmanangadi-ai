@@ -8,7 +8,7 @@
   <br /><br />
 
   <a href="https://www.linkedin.com/in/usman-angadi/"><img src="https://img.shields.io/badge/LinkedIn-Usman_Angadi-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/usman20003"><img src="https://img.shields.io/badge/GitHub-usman20003-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/usmanangadi-ai"><img src="https://img.shields.io/badge/GitHub-usmanangadi--ai-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <img src="https://img.shields.io/badge/Focus-Full--Stack_TypeScript-2563EB?style=flat-square" alt="Full-Stack TypeScript" />
 </div>
 
