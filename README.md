@@ -8,6 +8,7 @@
   <br /><br />
 
   <a href="https://www.linkedin.com/in/usmanangadi-ai/"><img src="https://img.shields.io/badge/LinkedIn-Usman_Angadi-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:usmanangadi.ai@gmail.com"><img src="https://img.shields.io/badge/Email-usmanangadi.ai%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Usman at usmanangadi.ai@gmail.com" /></a>
   <a href="https://github.com/usmanangadi-ai"><img src="https://img.shields.io/badge/GitHub-usmanangadi--ai-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <img src="https://img.shields.io/badge/Focus-Full--Stack_Developer-2563EB?style=flat-square" alt="Full-Stack Developer" />
 </div>
@@ -99,4 +100,5 @@ delivery-and-infrastructure:
   <strong>Let's connect and build useful software.</strong>
   <br /><br />
   <a href="https://www.linkedin.com/in/usmanangadi-ai/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Usman Angadi on LinkedIn" /></a>
+  <p><a href="mailto:usmanangadi.ai@gmail.com">usmanangadi.ai@gmail.com</a></p>
 </div>
