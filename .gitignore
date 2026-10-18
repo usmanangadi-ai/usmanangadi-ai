@@ -1,0 +1,3 @@
+# Local design sources, preview tools, and generated previews
+.design/
+node_modules/
