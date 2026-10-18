@@ -9,7 +9,7 @@
 
   <a href="https://www.linkedin.com/in/usmanangadi-ai/"><img src="https://img.shields.io/badge/LinkedIn-Usman_Angadi-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/usmanangadi-ai"><img src="https://img.shields.io/badge/GitHub-usmanangadi--ai-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/Focus-Full--Stack_TypeScript-2563EB?style=flat-square" alt="Full-Stack TypeScript" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack_Developer-2563EB?style=flat-square" alt="Full-Stack Developer" />
 </div>
 
 ---
@@ -44,7 +44,7 @@ I'm a **Developer at Audit Sense AI**, building secure, multi-tenant audit autom
 ### Cloud, DevOps and development tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,azure,linux,cloudflare,git,github,vscode,idea,eclipse,pycharm&theme=light" alt="Docker, GitHub Actions, Azure, Linux, Cloudflare, Git, GitHub, Visual Studio Code, IntelliJ IDEA, Eclipse and PyCharm" />
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,azure,linux,cloudflare,git,github,vscode,idea,webstorm,eclipse,pycharm&theme=light" alt="Docker, GitHub Actions, Azure, Linux, Cloudflare, Git, GitHub, Visual Studio Code, IntelliJ IDEA, WebStorm, Eclipse and PyCharm" />
 </p>
 
 ### AI tools I use
